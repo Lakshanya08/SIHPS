@@ -10,7 +10,7 @@ Background: Railway stations are complex environments with numerous facilities a
 ## Problem Creater's Organization
 Ministry of Railway
 
-## Idea
+## Ideanm
 
 
 ## Proposed Solution / Architecture Diagram
